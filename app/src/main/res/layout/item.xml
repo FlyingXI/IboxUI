@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RadioButton xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/ibox1"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:text="ibox1"
+    android:textSize="22sp"
+    android:gravity="center"
+    android:layout_marginStart="20dp"
+    android:layout_marginEnd="20dp"
+    android:layout_centerVertical="true"
+    android:layout_toEndOf="@+id/current_title"
+    android:background="@drawable/border_selector"
+    android:button="@null"
+    android:padding="4dp"
+    android:paddingLeft="2dp"
+/>
